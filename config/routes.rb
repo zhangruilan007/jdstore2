@@ -6,4 +6,5 @@ namespace :admin do
     resources :products
   end
 
+resources :products
 end
